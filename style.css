@@ -1,0 +1,26 @@
+
+.blogs{
+    border: 1px solid black;
+    padding: 8px 10px;
+}
+.blogs h1{
+    margin: 0;
+}
+.blogs p{
+    margin:6px 0 16px;
+}
+a{
+    color: black;
+}
+p > span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.images a{
+    display: block;
+    padding-top: 8px;
+}
+.chart ol li{
+    line-height: 150%;
+}
